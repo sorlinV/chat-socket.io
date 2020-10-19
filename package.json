@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/sorlinV/chat-socket.io#readme",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.1",
     "path": "^0.12.7",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.3.0"
   }
 }
